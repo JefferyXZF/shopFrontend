@@ -21,7 +21,7 @@ npm run dev
 
 ##  项目的管理后台
 
-该项目是兼容PC端和移动端的商城项目，分为管理后台和前台，后台项目传送[地址](https://github.com/JefferyXZF/shopFrontend )
+该项目是兼容PC端和移动端的商城项目，分为管理后台和前台，后台项目传送[地址](https://github.com/JefferyXZF/shopAdmin)
 
 ## 项目截图
 
